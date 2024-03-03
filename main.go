@@ -9,6 +9,8 @@ func Add(a, b int) int {
 }
 
 // Попытка один
+// и два
+// и три
 func main() {
 	fmt.Println("Я домашка")
 }
